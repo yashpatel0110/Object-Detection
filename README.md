@@ -9,8 +9,7 @@ This project demonstrates object detection on images using the **YOLOv3** model 
 2. [Technologies Used](#technologies-used)
 3. [Setup Instructions](#setup-instructions)
 4. [Output](#output)
-5. [Future Enhancements](#future-enhancements)
-6. [Contact](#contact)
+5. [Contact](#contact)
 
 ---
 
@@ -110,9 +109,8 @@ plt.axis("off")
 plt.show()
 
 ```
-## Output: Before and After Object Detection
-
-Here are the before and after images side by side:
+## Output
+### Before and After Object Detection:
 
 <table>
   <tr>
@@ -121,3 +119,7 @@ Here are the before and after images side by side:
   </tr>
 </table>
 
+## Contact
+### For any queries or contributions, please contact:
+- Yash Patel
+- Email: yashpatel95108@gmail.com
