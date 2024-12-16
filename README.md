@@ -108,3 +108,16 @@ plt.figure(figsize=(8, 8))
 plt.imshow(img_rgb)
 plt.axis("off")
 plt.show()
+
+```
+## Output: Before and After Object Detection
+
+Here are the before and after images side by side:
+
+<table>
+  <tr>
+    <td><strong>Before:</strong><br><img src="https://github.com/yashpatel0110/Object-Detection/blob/main/before.jpg" width="300" /></td>
+    <td><strong>After:</strong><br><img src="https://github.com/yashpatel0110/Object-Detection/blob/main/after.png" width="300" /></td>
+  </tr>
+</table>
+
